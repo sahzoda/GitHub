@@ -7,7 +7,7 @@ const SignUp({ Key? key }) : super(key: key);
   Widget build(BuildContext context){
     return Scaffold(
       appBar: AppBar(
-        title: Text("Sign Up"),
+        title: Text("Sign _Up"),
       ),
     );
   }
